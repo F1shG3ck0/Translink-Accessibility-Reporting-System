@@ -180,25 +180,25 @@ screenshots/
  
 screenshots/er-diagram.png
 
-![CRUD create interface](/screenshot/ER_Diagram.png)
+![ER Diagram](/screenshots/ER_Diagram.png)
 
 ### Reporting Dashboard
  
 screenshots/report-page.png
 
-![CRUD create interface](/screenshot/Hospital_Stop_Report.png)
+![Hospital Stop Report](/screenshots/Hospital_Stop_Report.png)
 
 ### Accessibility Analytics
  
 screenshots/chart-dashboard.png
 
-![CRUD create interface](/screenshot/Wheelchair-access-report.png)
+![Report with Chart](/screenshots/Wheelchair-access-report.png)
 
 ### CRUD Interface
  
 screenshots/crud-page.png
 
-![CRUD create interface](/screenshot/Create_Stop_CRUD.png)
+![CRUD create interface](/screenshots/Create_Stop_CRUD.png)
  
 ---
 
