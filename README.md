@@ -177,26 +177,18 @@ screenshots/
 ## Screenshots
 
 ### Entity Relationship Diagram
- 
-screenshots/er-diagram.png
 
 ![ER Diagram](/screenshots/ER_Diagram.png)
 
-### Reporting Dashboard
- 
-screenshots/report-page.png
+### Table Accessibility Report
 
 ![Hospital Stop Report](/screenshots/Hospital_Stop_Report.png)
 
-### Accessibility Analytics
- 
-screenshots/chart-dashboard.png
+### Chart Accessibility Report
 
 ![Report with Chart](/screenshots/Wheelchair-access-report.png)
 
-### CRUD Interface
- 
-screenshots/crud-page.png
+### CRUD Create
 
 ![CRUD create interface](/screenshots/Create_Stop_CRUD.png)
  
